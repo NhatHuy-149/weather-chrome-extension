@@ -1,0 +1,1 @@
+const tests: string ="kim chi"
